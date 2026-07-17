@@ -78,8 +78,7 @@ export default function Sidebar({
             </div>
           )}
         </div>
-
-
+        
         {/* Indexed Documents List */}
         <div>
           <div className="section-label" style={{ display: 'flex', justifyContent: 'space-between' }}>
